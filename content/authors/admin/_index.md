@@ -53,13 +53,7 @@ education:
     institution: University of Birmingham
     date_start: 2019-09-01
     date_end: 2023-05-01
-work:
-  - position: Research Intern
-    company_name: Ruchi Gupta Group
-    company_url: ''
-    company_logo: ''
-    date_start: 20xx-xx-xx
-    date_end: 20xx-xx-xx
+
 
 
 # Skills
