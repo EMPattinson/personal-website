@@ -46,8 +46,8 @@ research interests:
 education:
   - area: PhD at the EPSRC CDT for Topological Design
     institution: University of Birmingham
-    date_start: 2023-09-01
-    date_end: now
+    date_start: 2023-10-01
+    date_end: 2028-10-01
 
   - area: MSci Chemistry
     institution: University of Birmingham
